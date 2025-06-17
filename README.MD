@@ -96,7 +96,7 @@ SF_DB_Tasks
 
 ## 5. Контакты
 
-- **Автор**: Владимир Березняк
-- **Email**: amasovich@yandex.ru
+- **Автор**: Шатилов Алексей
+- **Email**: alexey.shatilov.1996@gmail.com
 - **Цель репозитория**: Учебные задачи по SQL и базам данных (PostgreSQL).
 
